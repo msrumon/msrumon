@@ -1,4 +1,4 @@
-choco upgrade -y `
+choco upgrade `
 googlechrome `
 internet-download-manager `
 authy-desktop `
@@ -7,27 +7,6 @@ uplay `
 origin `
 battle.net `
 7zip `
-docker-desktop `
-vagrant `
-kubernetes-cli `
-doctl `
-nodejs `
-python `
-mongodb `
-memurai-developer `
-deno `
-mingw `
-flutter `
-git `
-vscode `
-php `
-postgresql `
-pgadmin4 `
-mysql `
-mysql.workbench `
-composer `
-winscp `
-awscli `
 foxitreader `
 discord `
 obs-studio `
@@ -45,4 +24,28 @@ cpu-z `
 crystaldiskinfo `
 crystaldiskmark `
 msiafterburner `
-markdownmonster
+markdownmonster `
+rufus `
+wsl-debiangnulinux `
+docker-desktop `
+vagrant `
+kubernetes-cli `
+doctl `
+nodejs `
+python `
+postgresql `
+pgadmin4 `
+mongodb `
+memurai-developer `
+deno `
+mingw `
+flutter `
+git `
+vscode `
+php `
+composer `
+mysql `
+mysql.workbench `
+winscp `
+awscli `
+-y

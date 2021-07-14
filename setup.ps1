@@ -1,4 +1,5 @@
 choco upgrade `
+avro-keyboard `
 googlechrome `
 internet-download-manager `
 authy-desktop `
@@ -6,9 +7,11 @@ steam `
 uplay `
 origin `
 battle.net `
+bethesdanet `
 7zip `
 foxitreader `
 discord `
+slack `
 obs-studio `
 airserver `
 no-ip-duc `
@@ -17,6 +20,8 @@ plexmediaplayer `
 mkvtoolnix `
 potplayer `
 teamviewer `
+chrome-remote-desktop-chrome `
+anydesk `
 qbittorrent `
 deskpins `
 protonvpn `
@@ -41,11 +46,11 @@ deno `
 mingw `
 flutter `
 git `
+awscli `
 vscode `
+winscp `
 php `
 composer `
 mysql `
 mysql.workbench `
-winscp `
-awscli `
 -y

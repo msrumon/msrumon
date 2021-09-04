@@ -60,6 +60,7 @@ mingw `
 figma `
 flutter `
 awscli `
+stripe-cli `
 php `
 composer `
 mysql `
